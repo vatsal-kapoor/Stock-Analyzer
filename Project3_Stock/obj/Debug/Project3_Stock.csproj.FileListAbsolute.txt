@@ -1,0 +1,10 @@
+C:\Users\ts_lo\Downloads\testeeeeeeeeee\testeeeeeeeeee\Project3_Stock\Project3_Stock\bin\Debug\Project3_Stock.exe.config
+C:\Users\ts_lo\Downloads\testeeeeeeeeee\testeeeeeeeeee\Project3_Stock\Project3_Stock\bin\Debug\Project3_Stock.exe
+C:\Users\ts_lo\Downloads\testeeeeeeeeee\testeeeeeeeeee\Project3_Stock\Project3_Stock\bin\Debug\Project3_Stock.pdb
+C:\Users\ts_lo\Downloads\testeeeeeeeeee\testeeeeeeeeee\Project3_Stock\Project3_Stock\obj\Debug\Project3_Stock.csproj.AssemblyReference.cache
+C:\Users\ts_lo\Downloads\testeeeeeeeeee\testeeeeeeeeee\Project3_Stock\Project3_Stock\obj\Debug\Project3_Stock.Form1.resources
+C:\Users\ts_lo\Downloads\testeeeeeeeeee\testeeeeeeeeee\Project3_Stock\Project3_Stock\obj\Debug\Project3_Stock.Properties.Resources.resources
+C:\Users\ts_lo\Downloads\testeeeeeeeeee\testeeeeeeeeee\Project3_Stock\Project3_Stock\obj\Debug\Project3_Stock.csproj.GenerateResource.cache
+C:\Users\ts_lo\Downloads\testeeeeeeeeee\testeeeeeeeeee\Project3_Stock\Project3_Stock\obj\Debug\Project3_Stock.csproj.CoreCompileInputs.cache
+C:\Users\ts_lo\Downloads\testeeeeeeeeee\testeeeeeeeeee\Project3_Stock\Project3_Stock\obj\Debug\Project3_Stock.exe
+C:\Users\ts_lo\Downloads\testeeeeeeeeee\testeeeeeeeeee\Project3_Stock\Project3_Stock\obj\Debug\Project3_Stock.pdb
